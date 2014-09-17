@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.cryto.net:projects/joepie91/adhoc-stream"
+    "url": "https://github.com/joepie91/adhoc-stream.git"
   },
   "keywords": [
     "streams"
